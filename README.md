@@ -1,9 +1,4 @@
-<img width=100% title="Yudha Firdaus" alt="Yudha Firdaus" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nemonet-🔰-TYP&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-
-<p align="center">
-<a href="https://nemonet-profile.netlify.app"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-</p>
  <p align="center">
   <a href="https://the-young-programmer.github.io/The-Young-Programmer/"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white"/></a>
   <a href="https://the-young-programmer.github.io/The-Young-Programmer/"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/></a>
