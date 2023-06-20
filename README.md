@@ -1,4 +1,10 @@
-
+# Hi there 👋 , I'm Yudha Firdaus!
+Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+</br>
+</br>
+<p align="center">
+<a href="https://yudhafds.dev"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+</p>
  <p align="center">
   <a href="https://the-young-programmer.github.io/The-Young-Programmer/"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white"/></a>
   <a href="https://the-young-programmer.github.io/The-Young-Programmer/"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/></a>
