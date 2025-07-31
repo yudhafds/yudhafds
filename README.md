@@ -19,9 +19,9 @@
 
 ## Browser :
  <p align="center">
-  <a href="#"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white"/></a>
+  <a href="https://www.google.com/chrome/"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white"/></a>
 &emsp;
-  <a href="#"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/></a>
+  <a href="https://www.firefox.com/en-US/"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/></a>
   </p>
   
 ## Connect with me
@@ -30,11 +30,11 @@
 	  &emsp;
 	<a href="https://github.com/yudhafds"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	  &emsp;
-	<a href="https://www.linkedin.com/in/yudhafds/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/yudhafdss/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	  &emsp;
-	<a href="https://www.facebook.com/yudhafirdaus"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.facebook.com/yudhafds"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	  &emsp;
-	<a href="https://www.instagram.com/yudhafdss/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/nihyudha_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ## Programming languages
