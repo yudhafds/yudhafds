@@ -2,10 +2,13 @@
 
 <h3 align="center">A passionate Website Developer from Indonesia. I work as Web Developer and in my free time i do freelance web and desktop program creation based on Visual Basic .NET and I make YouTube videos for my hobby at <a href="https://www.youtube.com/@iamthenexo" target="_blank">Nexo Official</a></h3>
 
-<p align="center">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/yudhafds/yudhafds/refs/heads/main/gif3.gif">
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=yudhafds&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+### About Me
 👨‍💻 All of my projects are available at [https://github.com/yudhafds](https://github.com/yudhafds)  
 💬 Ask me about **DevOps & Web Dev** 
 
